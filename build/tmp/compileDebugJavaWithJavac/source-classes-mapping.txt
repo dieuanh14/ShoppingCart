@@ -23,6 +23,7 @@ com/android/foodorderapp/databinding/ActivityRestaurantMenuBinding.java
  com.android.foodorderapp.databinding.ActivityRestaurantMenuBinding
 com/android/foodorderapp/MainActivity.java
  com.android.foodorderapp.MainActivity
+ com.android.foodorderapp.MainActivity$1
 com/android/foodorderapp/databinding/RecyclerRowBinding.java
  com.android.foodorderapp.databinding.RecyclerRowBinding
 com/android/foodorderapp/model/Menu.java
@@ -33,6 +34,10 @@ com/android/foodorderapp/adapters/RestaurantListAdapter.java
  com.android.foodorderapp.adapters.RestaurantListAdapter$1
  com.android.foodorderapp.adapters.RestaurantListAdapter$MyViewHolder
  com.android.foodorderapp.adapters.RestaurantListAdapter$RestaurantListClickListener
+com/android/foodorderapp/databinding/ActivityRegisterBinding.java
+ com.android.foodorderapp.databinding.ActivityRegisterBinding
+com/android/foodorderapp/databinding/ActivityLoginBinding.java
+ com.android.foodorderapp.databinding.ActivityLoginBinding
 com/android/foodorderapp/PlaceYourOrderActivity.java
  com.android.foodorderapp.PlaceYourOrderActivity
  com.android.foodorderapp.PlaceYourOrderActivity$1
@@ -45,12 +50,22 @@ com/android/foodorderapp/model/RestaurantModel.java
  com.android.foodorderapp.model.RestaurantModel$1
 com/android/foodorderapp/databinding/ActivityOrderSucceessBinding.java
  com.android.foodorderapp.databinding.ActivityOrderSucceessBinding
-com/android/foodorderapp/databinding/ActivitySplashBinding.java
- com.android.foodorderapp.databinding.ActivitySplashBinding
-com/android/foodorderapp/databinding/ActivityPlaceYourOrderBinding.java
- com.android.foodorderapp.databinding.ActivityPlaceYourOrderBinding
-com/android/foodorderapp/model/Hours.java
- com.android.foodorderapp.model.Hours
 com/android/foodorderapp/OrderSucceessActivity.java
  com.android.foodorderapp.OrderSucceessActivity
  com.android.foodorderapp.OrderSucceessActivity$1
+com/android/foodorderapp/databinding/ActivitySplashBinding.java
+ com.android.foodorderapp.databinding.ActivitySplashBinding
+com/android/foodorderapp/model/Hours.java
+ com.android.foodorderapp.model.Hours
+com/android/foodorderapp/databinding/ActivityPlaceYourOrderBinding.java
+ com.android.foodorderapp.databinding.ActivityPlaceYourOrderBinding
+com/android/foodorderapp/Login.java
+ com.android.foodorderapp.Login
+ com.android.foodorderapp.Login$1
+ com.android.foodorderapp.Login$2
+ com.android.foodorderapp.Login$2$1
+com/android/foodorderapp/Register.java
+ com.android.foodorderapp.Register
+ com.android.foodorderapp.Register$1
+ com.android.foodorderapp.Register$2
+ com.android.foodorderapp.Register$2$1

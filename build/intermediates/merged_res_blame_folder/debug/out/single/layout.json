@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/ShoppingCart/FoodOrderApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/recycler_row.xml",
-        "source": "/Users/macbook/AndroidStudioProjects/ShoppingCart/FoodOrderApp/app/src/main/res/layout/recycler_row.xml"
-    },
-    {
         "merged": "/Users/macbook/AndroidStudioProjects/ShoppingCart/FoodOrderApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_place_your_order.xml",
         "source": "/Users/macbook/AndroidStudioProjects/ShoppingCart/FoodOrderApp/app/src/main/res/layout/activity_place_your_order.xml"
+    },
+    {
+        "merged": "/Users/macbook/AndroidStudioProjects/ShoppingCart/FoodOrderApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/recycler_row.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/ShoppingCart/FoodOrderApp/app/src/main/res/layout/recycler_row.xml"
     },
     {
         "merged": "/Users/macbook/AndroidStudioProjects/ShoppingCart/FoodOrderApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/menu_recycler_row.xml",
@@ -20,8 +20,8 @@
         "source": "/Users/macbook/AndroidStudioProjects/ShoppingCart/FoodOrderApp/app/src/main/res/layout/activity_login.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/ShoppingCart/FoodOrderApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_signup.xml",
-        "source": "/Users/macbook/AndroidStudioProjects/ShoppingCart/FoodOrderApp/app/src/main/res/layout/activity_signup.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/ShoppingCart/FoodOrderApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_register.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/ShoppingCart/FoodOrderApp/app/src/main/res/layout/activity_register.xml"
     },
     {
         "merged": "/Users/macbook/AndroidStudioProjects/ShoppingCart/FoodOrderApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_restaurant_menu.xml",
