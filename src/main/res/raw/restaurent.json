@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Fruit Store",
+    "address": "TPHCM",
+    "delivery_charge": 5,
+    "image": "https://www.unlockfood.ca/EatRightOntario/media/Website-images-resized/How-to-store-fruit-to-keep-it-fresh-resized.jpg",
+    "hours": {
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 9:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 11:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 11:00 PM",
+      "Saturday": "10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Apple",
+        "price": 10.00,
+        "url": "https://5.imimg.com/data5/AK/RA/MY-68428614/apple.jpg"
+      },
+      {
+        "name": "Banana",
+        "price": 13.99,
+        "url": "https://www.thedailymeal.com/img/gallery/13-delicious-things-you-can-make-with-bananas/l-intro-1673458653.jpg"
+      },
+      {
+        "name": "Kiwi",
+        "price": 4.99,
+        "url": "https://cdn.britannica.com/45/126445-050-4C0FA9F6/Kiwi-fruit.jpg"
+      },
+      {
+        "name": "Pinapple",
+        "price": 5.49,
+        "url": "https://www.thespruceeats.com/thmb/2Pdkzy-BBOBG74eziXqSj3hwDeI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-history-of-the-pineapple-1807645-343418eb3b4c41b1b956d3c702550a07.jpg"
+      },
+      {
+        "name": "Durian",
+        "price": 4.00,
+        "url": "https://tildaricelive.s3.eu-central-1.amazonaws.com/wp-content/uploads/sites/7/2022/01/12082512/Durian-1-min.jpg"
+      },
+      {
+        "name": "Mango",
+        "price": 3.25,
+        "url": "https://vietnamfruits.com.vn/upload/files/mango.jpg"
+      },
+      {
+        "name": "Melon",
+        "price": 5.49,
+        "url": "https://media.istockphoto.com/id/910127132/photo/cantaloupe-melon.jpg?s=612x612&w=0&k=20&c=6ZEbJTksIL7xwwLyop99fhhxCQK8-f368GrUjlECfkw="
+      },
+      {
+        "name": "Blueberry",
+        "price": 3.99,
+        "url": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/blueberries-1296x728-feature.jpg"
+      },
+      {
+        "name": "Water Melon ",
+        "price": 8.09,
+        "url": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/11/watermelon-1296x728-header-1.jpg?w=1155&h=1528"
+      },
+      {
+        "name": "Blackberry",
+        "price": 6.49,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ripe%2C_ripening%2C_and_green_blackberries.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Vegetables",
+    "address": "Thu Duc City",
+    "delivery_charge": 4,
+    "image": "https://cdn.britannica.com/17/196817-050-6A15DAC3/vegetables.jpg",
+    "hours": {
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Potato",
+        "price": 2.99,
+        "url": "https://cdn.mos.cms.futurecdn.net/iC7HBvohbJqExqvbKcV3pP.jpg"
+      },
+      {
+        "name": "Cucumber",
+        "price": 3.59,
+        "url": "https://www.biltong.co.za/wp-content/uploads/2022/09/cucumber.png"
+      },
+      {
+        "name": "Carrot",
+        "price": 5.44,
+        "url": "https://blog-images-1.pharmeasy.in/blog/production/wp-content/uploads/2021/04/23175719/shutterstock_440493100-1.jpg"
+      },
+      {
+        "name": "Lettuce",
+        "price": 2.00,
+        "url": "https://cdn.britannica.com/77/170677-050-F7333D51/lettuce.jpg"
+      },
+      {
+        "name": "Tomato",
+        "price": 3.49,
+        "url": "https://post.healthline.com/wp-content/uploads/2020/09/tomatoes-1200x628-facebook-1200x628.jpg"
+      },
+      {
+        "name": "Onion",
+        "price": 4.95,
+        "url": "https://produits.bienmanger.com/36700-0w470h470_Organic_Red_Onion_From_Italy.jpg"
+      },
+      {
+        "name": "Garlic",
+        "price": 3.59,
+        "url": "https://www.seeds-gallery.eu/6566-large_default/german-extra-hardy-garlic-cloves.jpg"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 5.49,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "McNuggets",
+        "price": 3.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Spinach",
+        "price": 8.29,
+        "url": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/05/spinach-1296x728-header.jpg?w=1155&h=1528"
+      },
+      {
+        "name": "Broccoli",
+        "price": 6.99,
+        "url": "https://www.thespruceeats.com/thmb/spjoOLmjTV4CbjY_YY2Ajw0pCWg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-broccoli-storage-and-selection-1807744-bf2d2de7326b40a9b00a165877ec314c.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Frozen Food",
+    "address": "Thu Duc City",
+    "delivery_charge": 4,
+    "image": "https://cdn.winsightmedia.com/platform/files/public/2022-10/background/Frozen%20Food.jpg?VersionId=wcbBH_iFcw0TUeTypzTbiTUYKBqE692Q",
+    "hours": {
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Fish Fillet",
+        "price": 2.99,
+        "url": "https://justcook.butcherbox.com/wp-content/uploads/2021/03/frozen-cod-filet.jpg"
+      },
+      {
+        "name": "Pork",
+        "price": 3.59,
+        "url": "https://dinosaofood.co/wp-content/uploads/2022/02/Pork-SteakThumbnail-OG.png"
+      },
+      {
+        "name": "Beef",
+        "price": 5.44,
+        "url": "https://food.unl.edu/newsletters/images/frozen-meat.jpg"
+      },
+      {
+        "name": "Chicken Wings",
+        "price": 2.00,
+        "url": "https://www.luluhypermarket.com/cdn-cgi/image/f=auto/medias/9591-02.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MzkwNzZ8aW1hZ2UvanBlZ3xhR1F3TDJobVpTOHhNalF6T1RBMU56azRPVFkyTWk4NU5Ua3hMVEF5TG1wd1oxOHhNakF3VjNneE1qQXdTQXw5NjAzZmJhODVlMDI2MDk4OTgwZDc0YWU2OWMwZTdmMDJlNWYwMTczMjNhYjdmMTRiNDllMzNlYzNmZGU0MWE3"
+      },
+      {
+        "name": "Ice-cream",
+        "price": 2.149,
+        "url": "https://countryfresh.com/wp-content/uploads/2022/05/CountryFresh-48oz-LE-LemonIceBoxPie.png"
+      },
+      {
+        "name": "Pizza",
+        "price": 6.5,
+        "url": "https://www.goodnes.com/sites/g/files/jgfbjl321/files/gdn_product/field_product_images/jacks-w6xavawzhkkhsbjb9qur.png"
+      }
+    ]
+  }
+]
